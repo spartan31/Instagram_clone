@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Instagram</string>
+    <string name="home">Home</string>
+    <string name="post">Post</string>
+    <string name="search">Search</string>
+    <string name="likes">Likes</string>
+    <string name="profile">Profile</string>
+    <string name="log_in">Log in</string>
+    <string name="jacob_w">jacob_w</string>
+    <string name="signup_message">Don\'t have an account?</string>
+    <string name="sign_up">Sign up</string>
+    <string name="switch_accounts">Switch accounts</string>
+    <string name="app_logo">app logo</string>
+    <string name="user_image">User Image</string>
+    <string name="username_input_hint">Username, email or phone</string>
+    <string name="password">Password</string>
+    <string name="forgot_passwords">Forgot passwords?</string>
+    <string name="username">Jacob West</string>
+    <string name="user_bio">Digital goodies designer @pixsellz \nEverything is designed.</string>
+    <string name="home_fragment">Home Fragment</string>
+
+</resources>
